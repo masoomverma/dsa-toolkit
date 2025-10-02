@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="dsa-toolkit",
-    version="1.0.0",
+    version="1.0.1",
     author="Masoom Verma",
     author_email="0xmasoom@gmail.com",
     description="A comprehensive toolkit for Data Structures and Algorithms",

@@ -4,7 +4,7 @@ DSA Toolkit - Data Structures and Algorithms
 A collection of essential algorithms and data structures for learning and practice.
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 # Core modules
 from . import sorting

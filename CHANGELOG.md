@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2025-10-03
+
+### Added
+- GitHub Actions automation for PyPI publishing
+- Automated publishing workflow for production PyPI on release creation
+- Automated publishing workflow for Test PyPI on dev branch pushes
+- Comprehensive automation guide (AUTOMATION_GUIDE.md)
+
+### Changed
+- Improved CI/CD pipeline for package distribution
+
 ## [1.0.0] - 2025-10-03
 
 ### Added
